@@ -70,7 +70,6 @@ def start_game():
     else:
         print("Выиграл" + chek_win())
 
-        # game_step(int(index), current_player)
 
 print("Добро пожаловать в игру крестики- нолики")
 start_game()
